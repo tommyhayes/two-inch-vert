@@ -45,22 +45,56 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+/* end of the reset */
 
+
+#content { padding: 48px
+}
+
+#container {
+max-width: 960px;
+margin: 0 auto;
+}
+
+#title-name {font-family: 'cutive';
+  font-size: 40px;
+  padding-bottom: 20px;
+  line-height: 1.5;
+} 
+
+ul{list-style:disc;
+  padding: 2px;
+  padding-left: 60px;
+  line-height: 1.2;
+  font-family: 'cutive';
+}
+
+h1{
+  font-weight: bold;
+  font-family: 'cutive';
+  font-size: 28px;
+}
+h2 {
+  font-family:'cutive';
+  font-size: 16px;
+}
+
+h3 {
+  font-family: 'cutive';
+  font-size: 14px;
+  font-style: italic;
+  
+}
+
+
+}
 body
 {
 background-color:#afc757;
 }
-h1
-{
-color:#4f501b;
-text-align:left;
-font-size:30px;
-}
-p
-{
-font-family:"times new roman";
-font-size:20px;
-}
+
+
+
 
 
 
