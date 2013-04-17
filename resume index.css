@@ -70,9 +70,10 @@ ul{list-style:disc;
 }
 
 h1{
-  font-weight: bold;
+  font-weight: 900;
   font-family: 'cutive';
-  font-size: 28px;
+  font-size: 42px;
+  padding: 2px;
 }
 h2 {
   font-family:'cutive';
@@ -80,11 +81,11 @@ h2 {
 }
 
 h3 {
+  color: #797979;
   font-family: 'cutive';
-  font-size: 14px;
+  font-size: 30px;
   font-style: italic;
-  
-}
+padding: 20px;}
 
 
 }
